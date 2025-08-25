@@ -1,3 +1,4 @@
+
 from pyrogram.types import InlineKeyboardButton
 
 import config
@@ -34,4 +35,5 @@ def private_panel(_):
         ],
     ]
     return buttons
+
 
